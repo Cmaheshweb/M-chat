@@ -1,0 +1,44 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.container {
+  padding: 30px;
+}
+
+.avatar-select button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+#avatar-box img {
+  margin-top: 20px;
+  width: 200px;
+  height: auto;
+  border-radius: 20px;
+}
+
+.chat-box {
+  margin-top: 30px;
+}
+
+.chat-box button {
+  font-size: 18px;
+  padding: 10px 20px;
+  background-color: #ff9800;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+#output {
+  margin-top: 20px;
+  font-size: 18px;
+}
